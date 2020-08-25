@@ -6,6 +6,8 @@
               :title        = "dataHomes.title"
               :desc         = "dataHomes.desc"
               :location     = "dataHomes.location"
+              :phone        = "dataHomes.phone"
+              :email        = "dataHomes.email"
     >
     </home>
     </div>
@@ -28,7 +30,7 @@ export default {
   data(){
           return{
               dataHome: [
-                    { name:'Cauzzi Stefano', desc:'Impiegato Tecnico Meccanico, con la passione per la programmazione.', title : ' CNC and CAD/CAM Programmer', location:'Solferino (MN) 46040'},
+                    { name:'Cauzzi Stefano', desc:'Impiegato Tecnico Meccanico, con la passione per la programmazione.', title : ' CNC Machine Tool Programmer', location:'Solferino (MN) 46040',phone:'+39343584908',email:'cauzzistefano@gmail.com'},
 
                   ]
 
