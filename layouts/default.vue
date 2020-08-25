@@ -16,10 +16,7 @@
 </template>
 
 <style>
-body{
-  /* background-image: linear-gradient(40deg, #101010 0%, #180450 100%); */
-  
-}
+
 html {
   /* font-family:
     'Source Sans Pro',
