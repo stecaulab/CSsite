@@ -62,6 +62,10 @@ export default {
   ** See https://axios.nuxtjs.org/options
   */
   axios: {},
+  router: {
+
+    linkExactActiveClass: 'active'
+  },
   /*
   ** Build configuration
   ** See https://nuxtjs.org/api/configuration-build/

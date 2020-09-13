@@ -1,5 +1,7 @@
 <template>
   <div>
+       <Navigation>
+      </Navigation>
     <p  class="text-white font-extrabold text-3xl md:text-5xl">ABOUT</p>
       <p class="title-2xl pt-20">
         Lorem ipsum dolor sit amet consectetur adipisicing elit.

@@ -53,7 +53,7 @@ export default {
     z-index: 11;
     top: 0;
     padding: 0 9rem;
-    
+      
 }
 #inizio{
     width: 100%;
