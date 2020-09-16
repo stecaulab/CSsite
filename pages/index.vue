@@ -4,6 +4,9 @@
       <Navigation>
       </Navigation>
 
+      <MainIndex>
+      </MainIndex>
+
     	<!-- <div v-for="(dataHomes, index) in dataHome" :key=" `__home_$(index)`">
     <home
               :name         = "dataHomes.name"
@@ -53,7 +56,7 @@ export default {
     z-index: 11;
     top: 0;
     padding: 0 9rem;
-      
+
 }
 #inizio{
     width: 100%;
